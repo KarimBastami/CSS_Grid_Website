@@ -1,5 +1,5 @@
-# CSS_Grid_Website
-Website I made that uses CSS Grid for page layout and responsiveness to different screen sizes
+# Sports-News-Sites
+Sports news website that uses CSS Grid for page layout and responsiveness to different screen sizes
 
 # Disclaimer
 

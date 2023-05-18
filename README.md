@@ -13,6 +13,7 @@ Sports news website that uses CSS Grid for page layout and responsiveness to dif
 ## Disclaimer
 
  - Used the lorem30 extension pack for Visual Studio Code to generate place holder blocks of text
+
  
 
  
